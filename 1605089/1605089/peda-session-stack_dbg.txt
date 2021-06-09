@@ -1,0 +1,5 @@
+break bof
+break *0x0804850e
+break foo
+break bof
+
